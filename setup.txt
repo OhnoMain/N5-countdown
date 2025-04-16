@@ -1,0 +1,4 @@
+To run this script you have to type these commands into cmd 
+
+pip install datetime
+pip install colorama
